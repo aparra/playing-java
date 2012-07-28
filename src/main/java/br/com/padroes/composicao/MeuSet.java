@@ -1,4 +1,4 @@
-package br.com.padroes.comporsicao;
+package br.com.padroes.composicao;
 
 import java.util.Collection;
 import java.util.HashSet;

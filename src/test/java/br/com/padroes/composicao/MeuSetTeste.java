@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 import org.junit.Test;
 
-import br.com.padroes.comporsicao.MeuSet;
+import br.com.padroes.composicao.MeuSet;
 
 public class MeuSetTeste {
 

@@ -2,3 +2,4 @@
 .project
 .settings
 src/main/bin
+target/
